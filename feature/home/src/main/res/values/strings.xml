@@ -1,0 +1,18 @@
+<resources>
+    <string name="empty" />
+
+    <!-- Home -->
+    <string name="home_title">Raven News</string>
+
+    <!-- Home Bottom Sheet -->
+    <string name="label_most_viewed">Most viewed from:</string>
+    <string name="radio_button_last_day">Last day</string>
+    <string name="radio_button_last_7_days">Last 7 days</string>
+    <string name="radio_button_last_30_days">Last 30 days</string>
+
+    <!-- Home Pop Up -->
+    <string name="error_title">Error fetching news</string>
+    <string name="error_message">Please try again later.</string>
+    <string name="ok">OK</string>
+
+</resources>
